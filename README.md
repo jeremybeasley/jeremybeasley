@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-By day, UX @google. By night, culture and foreign language mumbler @foreign-exchange. In between, @Seattle_CM host. Prev @apple @microsoft.
+- ☀️ UX at Google (focus—AI/ML and Cloud flows). 
+- 🌓 Culture hunter and foreign language mumbler at Foreign Exchange
+- ⏪: @apple @microsoft
+- 🤔 Currently learning...
