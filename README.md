@@ -1,4 +1,4 @@
-### Hi there 👋
+### tl;dr
 
 <!--
 **jeremybeasley/jeremybeasley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+By day, UX @google. By night, culture and foreign language mumbler @foreign-exchange. In between, @Seattle_CM host. Prev @apple @microsoft.
