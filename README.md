@@ -1,4 +1,4 @@
-### tl;dr
+### tl;dr 🖖
 
 <!--
 **jeremybeasley/jeremybeasley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ☀️ UX at Google (focus—AI/ML and Cloud flows). 
-- 🌓 Culture hunter and foreign language mumbler at Foreign Exchange
-- ⏪: @apple @microsoft
-- 🤔 Currently learning...
+- ☀️: UX [@Google](https://github.com/google) for Cloud AI / Compute 
+- 🌓: Cultural historian at Foreign Exchange
+- ⏪: HW Eng [@apple](https://github.com/apple), UX [@microsoft](https://github.com/microsoft)
+<!-- - 🤔: Currently learning... -->
