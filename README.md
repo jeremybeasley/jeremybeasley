@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ☀️: UX [@Google](https://github.com/google) for Cloud AI / Compute 
+- ☀️: UX [@Google](https://github.com/google) for Android and Quantum AI 
 - 🌓: Cultural historian at Foreign Exchange
 - ⏪: HW Eng [@apple](https://github.com/apple), UX [@microsoft](https://github.com/microsoft)
 <!-- - 🤔: Currently learning... -->
